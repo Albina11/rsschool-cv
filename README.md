@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GITHUB-Albina11.github.io/rsschool-cv/cv

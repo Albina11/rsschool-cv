@@ -1,3 +1,4 @@
+![photo](/rsschool-cv/IMG_20220821_172710.jpg)
 #Albina Basova
 ##FrontEnd Developer
 ***
