@@ -31,3 +31,17 @@ September 2012 - June 2018
 of Kyiv National University of Trade and Economics 
 Management  (specialist)
 September 2016 - June 2017
+***
+###Tech Skills
+*HTML5 (basic level)
+*CSS3 (basic level)
+*GIT (basic level)
+*JavaScript (basic level)
+***
+###Soft Skills
+*Adaptability
+*Logical thinking
+*Ability to learn
+*Self-organization
+*Teamwork
+
