@@ -1,0 +1,172 @@
+/* *{
+  margin: 0px;
+  padding: 0px;
+} */
+body {
+  margin: 0px auto;
+  display: flex;
+  overflow-x: hidden;
+}
+.wrapper {
+    display: flex;
+  flex-direction: row-reverse;
+  width: 1280px;
+  background-color: #fff;
+  padding: 0px;
+  margin: 0 auto;
+}
+/* main content section */
+main {
+    margin-left: 20px;
+}
+.main-content-section {
+    padding: 100px 90px;
+  }
+  .main-content-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin: 0 0 10px 0;
+  }
+  /* about me section */
+  .about-me-section {
+    margin-bottom: 40px;
+  }
+  .about-me-profession {
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 17px;
+    margin-bottom: 20px;
+  }
+  .about-me-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin: 0 0 25px 0;
+  }
+  .about-me-discription {
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+  }
+  /* my work */
+  .My-work-experience-company {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+  }
+  .My-work-experience-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0 0 10px 0;
+  }
+  .My-work-experience-period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin: 0 0 10px 0;
+  }
+  
+  .My-work-experience-company-block {
+    margin: 0 0 15px 0;
+  }
+  /* Education */
+  .My-education {
+    margin: 40px 0 100px 0;
+  }
+  .My-education-university {
+    margin: 0 0 10px 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+  }
+  .My-education-university-faculty {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0 0 12px 0;
+  }
+  .My-education-university-faculty-time {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+  }
+ 
+  /* sidebar section */
+  .sidebar-container {
+    background-color: #1e2939;
+    width: 250px;
+    padding-top: 40px;
+  }
+  .sidebar-container img {
+  width: 150px;
+  margin-left: 50px;
+  }
+  .contacts-section,
+  .tech-skills-section {
+    margin: 50px 0 0 40px;
+  }
+  .sidebar-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+  /* contacts section */
+  .contacts-section-type {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 5px;
+  }
+  .contacts-section-link {
+    color: #575f6b;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .tech-skills-list,
+  .soft-skills-list {
+    padding-left: 20px;
+  }
+  .tech-skills-item,
+  .soft-skills-item {
+    color: #fb6d3a;
+  }
+  .skills-item-text {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .soft-skills-section {
+    margin: 45px 0 0 40px;
+  }
